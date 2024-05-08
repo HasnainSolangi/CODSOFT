@@ -4,14 +4,25 @@
 # [CodSoft]( https://www.codsoft.in/)
 
 
-🌟 **CodSoft Learning Journey: April 10, 2024 - May 10, 2024** 🚀
+# 🌟 **Embarking on the CodSoft Learning Journey!** 🚀
 
-- Embarked on an exciting learning journey with CodSoft Internship! 🎓 Started exploring Python, diving into the world of programming with enthusiasm and curiosity. 💻
-- Completed tasks such as building interactive GUIs with Tkinter, organizing tasks with To-Do Lists, and managing contacts with a Contact Book application. 🖥️✨
-- Utilized the Tkinter library extensively for creating graphical user interfaces, incorporating buttons, labels, and entry widgets to enhance the functionality and user experience of the applications. 🎨🔧
-- Took on challenges like implementing rock-paper-scissors games, delving into object-oriented programming concepts, and developing dynamic applications. 🎮🔍
-- Wrapped up an enriching learning journey with CodSoft! 🎉 Equipped with newfound skills and practical experience, ready to confidently tackle real-world projects. 💪💼
+### Assalamu Alaikum! 🌟 Excited to share my journey with CodSoft as a Python Developer Intern. From mastering the basics of Python to crafting user-friendly applications, it's been an incredible ride of growth and learning. 💻✨
 
+🔍 **Task 001: Rock Paper Scissors Game**
+Delved into the world of Python programming with a hands-on project to develop a fun and interactive rock-paper-scissors game. Implemented game logic, user input handling, and graphical user interface design using Tkinter. 🎮💡
+
+
+🗒️ **Task 002: To-Do List Application**
+Created a dynamic to-do list application using Tkinter, diving deeper into GUI programming concepts. Explored user interface design, data storage, and user input management to deliver a seamless user experience. 📝🖥️
+
+
+📞 **Task 003: Contact Book**
+Developed a contact book application to manage contacts efficiently. Utilized Tkinter for building an intuitive interface and integrated functionality for adding, viewing, searching, updating, and deleting contacts. ☎️📚
+
+
+💼 **Conclusion**
+
+Reflecting on my journey, I'm grateful for the opportunity to learn, collaborate, and grow with CodSoft. Each task has been a stepping stone towards becoming a proficient Python developer. Excited to continue honing my skills and contributing meaningfully to future projects! 💪🎓
 ### Join me in celebrating this journey of growth and learning! 🚀 
 
  [LinkedIn - Hasnain Ahmed](https://www.linkedin.com/in/hasnainahmed90s/)
